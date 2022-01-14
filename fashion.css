@@ -1,2 +1,6 @@
 body{ background-color: white;}
 h2{color: black; margin:3cm  5cm;font-size: 30px; font-family: 'Righteous', cursive  ; }
+nav{ margin-left: 25cm;margin-top: -4cm;}
+a{ padding-left:1.5cm;font-size: 27px;text-decoration: none;font-family: 'Righteous', cursive; color: black;}
+.fa-search{padding-left:1.5cm; }
+.fa-shopping-cart{ padding-left: 1.5cm;}
