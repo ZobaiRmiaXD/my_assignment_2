@@ -1,10 +1,15 @@
-body{ background-color: white;}
-h2{color: black; margin:3cm  5cm;font-size: 30px; font-family: 'Righteous', cursive  ; }
-nav{ margin-left: 25cm;margin-top: -4.2cm;}
-a{ padding-left:1.5cm;font-size: 27px;text-decoration: none;font-family: 'Righteous', cursive; color: black;}
-.fa-search{padding-left:1.5cm; }
-.fa-shopping-cart{ padding-left: 1.5cm;}
-.blog_1{margin-top:6cm;margin-left: 5cm;font-size: 45px; font-family: 'Lato', sans-serif; }
-.header_1{ margin-top:-1.2cm;margin-left: 5cm;font-size: 45px;font-family: 'Lato',sans-serif;}
-.photo{ margin-left: 30cm;margin-top: -10cm;}
-.photo_1{ margin-left: 32cm;margin-top: -14.5cm;}
+ .main-container{ display: flex; justify-content: space-evenly; gap:250px ;}
+.box-1{ border: 2px hidden rgba(36, 33, 33, 0.945); font-size: 1.5em; height: 150px;width: 400px; margin-left: 100px;margin-top: 130px;}
+.box-2{ border: 2px hidden  black; width: 800px;height: 200px; margin-top: 150px;}
+nav,a{text-decoration: none; padding-right:40px;font-size:1.4em;font-family: 'Righteous',cursive;color: black; }
+.fas{ font-size:1.6em;padding-right: 40px;}
+
+
+.sec-container{ display: flex ; justify-content: space-evenly;gap:20%;flex-wrap: wrap;}
+.head-1{ border: 2px dashed black; margin-left: 150px;margin-top: 150px; width: 600px; height: 350px;}
+.first{ font-size: 4em;font-weight:bolder; font-family: 'Lato',sans-serif;}
+.second{margin-top: -1.3cm;  font-size: 4em;font-weight:bolder; font-family: 'Lato',sans-serif;}
+#third{margin-top: -1cm;padding-left:10px;font-size:1.3em;font-weight: bold; }
+#link{margin-left: 10px; border: 2px solid black; width:7cm;height:1.5cm;background-color: brown;}
+.photo{ margin-top: -12cm; }
+.margn{margin-top: 80px; }
